@@ -1,9 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
      
-
-  
-  int age(int fAge,int sAge){
+int age(int fAge,int sAge){
     return fAge-(sAge*2);
   }
   int main() {
