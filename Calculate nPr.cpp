@@ -10,9 +10,7 @@ int factorial( int n){
 }
 
 int main() {
-    /**
-    * Write your C++ code from here
-    */
+    
     int n,r;
     cin>>n>>r;
     int ans=factorial(n)/factorial(n-r);
