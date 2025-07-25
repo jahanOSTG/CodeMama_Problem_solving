@@ -19,7 +19,7 @@ int main() {
         mid = (low + high) / 2;
 
         if (arr[mid] == a) {
-            cout << mid << endl;  // print index if found
+            cout << mid << endl; 
             found = true;
             break;
         }
