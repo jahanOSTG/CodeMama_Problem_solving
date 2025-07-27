@@ -11,6 +11,7 @@ int main() {
     for(int j=r2+1;j<=r1;j++){
         cout<<j<<" ";
     }
+     
 
     return 0;
 }
