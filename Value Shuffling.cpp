@@ -13,5 +13,5 @@
         else if (ch == 'B') cout << a << " ";
         else if (ch == 'C') cout << b << " ";
      }
-
+ return 0;
  }
