@@ -7,4 +7,7 @@ int main(){
     cin>>s;
     sort(s.begin(),s.end(),greater<char>());
     cout<<s<<endl;
+
+    return 0;
 }
+
